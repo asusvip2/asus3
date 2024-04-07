@@ -1,0 +1,130 @@
+html{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    background: url(https://cdn.discordapp.com/attachments/1207595675899138068/1225803205301108766/164751460764.png?ex=66227532&is=66100032&hm=289591e8acf8b92e5ebf87ff5b1dfbde3e84999b9638db687aec6ad2d530f59e&) no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+  }
+  .main-btn {
+    color: #ff0000;
+    text-decoration: none;
+    font-size: 1.1em;
+    font-weight: 600;
+    display: inline-block;
+    padding: 0.9375em 2.1875em;
+    letter-spacing: 13px;
+    border-radius: 15px;
+    margin-bottom: -136px;
+    transition: 0.7s ease;
+    BORDER: SOLID BLACK;
+    MARGIN-LEFT: 205%;
+
+  }
+  
+  .main-btn:hover {
+      background-color: #ffffff;
+      transform: scale(1.1);
+  }
+ h2 {
+    padding-top: 22px;
+    display: inline-block;
+    color: rgb(255, 0, 0);
+    font-size: 3em;
+    font-weight: 600;
+    padding-left: 321px;
+    font-family: Poppins, sans-serif;
+ }
+
+ h2 span{
+    display: inline-block;
+    margin-top: 10px;
+    color: #ff0000;
+    font-size: 3em;
+    font-weight: 600;
+    PADDING-LEFT: 14PX;
+    font-family: 'Poppins', sans-serif;
+}
+
+    h3{
+        padding-top: 22px;
+        display: inline-block;
+        color: #ff0000;
+        font-size: 3em;
+        font-weight: 600;
+        padding-left: 321px;
+        font-family: 'Poppins', sans-serif;
+    }
+    
+     h3 span{
+        display: inline-block;
+        margin-top: 10px;
+        color: #ff0000;
+        font-size: 3em;
+        font-weight: 600;
+        padding-left: 108px
+        font-family: 'Poppins', sans-serif;}
+   #imagewin{
+    padding-bottom: 50px;
+    width: 500px;
+    padding-left: 294px;
+    vertical-align: middle;
+    max-width: 100%;
+    display: inline-block;  
+      margin-left: 150px;
+}
+    #imagewin2{
+    padding-bottom: 50px;
+    width: 500px;
+    /* padding-left: 648px; */
+    vertical-align: middle;
+    max-width: 100%;
+    display: inline-block;
+}
+    #imagewin3{
+        padding-bottom: 50px;
+    width: 500px;
+    padding-right: 164px;
+    vertical-align: middle;
+    max-width: 100%;
+    display: inline-block;}
+        #imagewin4{
+            padding-bottom: 50px;
+    width: 500px;
+    /* padding-left: 648px; */
+    vertical-align: middle;
+    max-width: 100%;
+    display: inline-block;
+    margin-left: 297px;
+        }
+            #imagewin5{padding-top: 360px;
+                width: 500px;
+                padding-left: 163px;
+                vertical-align: middle;
+                max-width: 100%;
+                display: inline-block;
+            }
+        #imagewin6 {
+            width: 500px;
+            padding-right: 164px;
+                vertical-align: left;
+                max-width: 100%;
+                display: inline-block;
+                
+        }
+        #imagewin7{
+            width: 500px;
+            padding-left: 596px;
+                vertical-align: left;
+                max-width: 100%;
+                display: inline-block;
+        }
+        #imagewin8{
+            width: 500px;
+            padding-right: 432px;
+                vertical-align: left;
+                max-width: 100%;
+                display: inline-block;
+        }
